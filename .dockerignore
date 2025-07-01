@@ -1,0 +1,10 @@
+/.git/
+/.idea/
+/.next/
+/node_modules/
+/out/
+/docker-compose.yml
+/Dockerfile
+/.gitignore
+/next-env.d.ts
+/README.md

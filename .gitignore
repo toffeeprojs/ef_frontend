@@ -1,5 +1,5 @@
 /node_modules/
-/next-env.d.ts
 /.next/
 /.idea/
 /out/
+/next-env.d.ts
